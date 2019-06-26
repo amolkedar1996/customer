@@ -1,0 +1,38 @@
+problem statement:
+
+To build a host website for all company employees to  access central corporate customers accounting information.
+
+
+
+
+
+problem Definition
+
+Contoso is a multinational company which has 12 offices all over the world.
+for accessing all the information of all customers of all the employees
+they needed to build a central repository to view all the customer details 
+and their accounting information for their work purposes. 
+company wanted to make a common host website for all employess from all offices .
+by using this host website all employees must be able to access corporate 
+customers accounting related information so for this Employees can manage their accounts 
+like update account ,remove account ,add account so company  needed to build 
+and host the website in public google cloud platform or aws so the 
+customers all the details must be available for all employees at a position 
+so employees can get accounting information easily .
+
+
+
+
+functional requirements:
+
+1.Admin need to customers personal details to add it in accounting information.
+2.Display customers accounting  information.
+3. EMployees need to manage customers accounting information such as update, delete.
+4.close customers account which are no part of company as a client.
+
+
+non functional requirements:
+
+1.security.
+2.performance.
+3.maintainability.
